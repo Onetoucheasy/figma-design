@@ -3,7 +3,7 @@
 ### Diseño de pantallas para el proyecto final del Bootcamp Mobile XV, aplicando los conceptos de UX-UI aprendidos en el módulo de diseño.
 
 
-<img width="994" alt="image" src="https://github.com/Onetoucheasy/figma-design/assets/73435257/278e29d3-9104-46cf-974f-fcd444ffef0f">
+<img width="802" alt="image" src="https://github.com/Onetoucheasy/figma-design/assets/73435257/1aa5792e-6a6b-43e9-a8ed-468c1d3d18ba">
 
 
 
