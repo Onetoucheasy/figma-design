@@ -1,4 +1,4 @@
-# figma-design
+# Diseño del Prototipo de PapeoYA
 
 ### Diseño de pantallas para el proyecto final del Bootcamp Mobile XV, aplicando los conceptos de UX-UI aprendidos en el módulo de diseño.
 
