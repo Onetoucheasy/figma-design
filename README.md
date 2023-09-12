@@ -7,5 +7,5 @@
 
 
 
-
+#### Puede descargarse el archivo RestauranteApp.fig incluido en este repo, o bien visualizarlo a través de la siguiente Url:
 https://www.figma.com/file/w8ZtEzYlEsnOXR7FeTfCnP/RestauranteApp?type=design&node-id=0%3A1&mode=design&t=g7IyPcDXEZoCnyz1-1
